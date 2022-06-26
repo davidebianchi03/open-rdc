@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a83af5a-409b-4aa9-878e-232aa2a11816" name="Changes" comment="" />
+    <list default="true" id="9d3e2733-d4c1-4a00-b841-08afb7631991" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/openrdc/openrdc/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/openrdc/openrdc/scenes/home.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/rdc/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/rdc/model/ColorPalette.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/rdc/model/Gui.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/rdc/model/pages/Landing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/org/rdc/model/pages/utils/RoundedBorder.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +39,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2B4kWktpHyD1Ws5DIrPQon9Z1Oz" />
+  <component name="ProjectId" id="2B7nQEK9q0jCr23DtzR5Hbo1oGp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,23 +48,24 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "F:/git/open-rdc"
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\git\open-rdc\open-rdc\src\main\java\org\example" />
+      <recent name="F:\git\open-rdc\open-rdc\src\main\resources\com\openrdc\openrdc\scenes" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.openrdc.openrdc" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="org.example.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+    <configuration name="com.openrdc.openrdc.openrdc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.openrdc.openrdc.openrdc" />
       <module name="open-rdc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="com.openrdc.openrdc.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,18 +75,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.org.example.Main" />
+        <item itemvalue="Application.com.openrdc.openrdc.openrdc" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7a83af5a-409b-4aa9-878e-232aa2a11816" name="Changes" comment="" />
-      <created>1656172780998</created>
+      <changelist id="9d3e2733-d4c1-4a00-b841-08afb7631991" name="Changes" comment="" />
+      <created>1656265975503</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1656172780998</updated>
+      <updated>1656265975503</updated>
     </task>
     <servers />
   </component>
@@ -83,5 +100,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.reflect.InvocationTargetException" package="java.lang.reflect" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
