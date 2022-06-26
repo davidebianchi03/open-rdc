@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a83af5a-409b-4aa9-878e-232aa2a11816" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rdc/model/ColorPalette.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rdc/model/pages/utils/RoundedBorder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/rdc/model/Gui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rdc/model/Gui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/rdc/model/pages/Landing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rdc/model/pages/Landing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,5 +90,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/open_rdc$org_rdc_Main.ic" NAME="org.rdc.Main Coverage Results" MODIFIED="1656248139538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.rdc.*</FILTER>
+    </SUITE>
   </component>
 </project>
