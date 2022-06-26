@@ -3,8 +3,11 @@ open rdc - open source remote desktop controller
 
 | Functionality | Status |
 | ------------- | ------ |
-| Connection | X |
-| Share video | X |
-| Remote mouse | X |
-| Remote keyboard | X |
+| Connection | :x: |
+| Share video | :x: |
+| Remote mouse | :x: |
+| Remote keyboard | :x: |
 
+#### Legend:
+:x: Not implemented yet\
+:heavy_check_mark:	Already implemented
