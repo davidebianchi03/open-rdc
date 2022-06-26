@@ -1,4 +1,4 @@
-package org.example.model;
+package org.rdc.model;
 
 import javax.swing.*;
 import java.awt.*;

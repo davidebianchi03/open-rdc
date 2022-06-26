@@ -1,4 +1,4 @@
-package org.example.model.pages;
+package org.rdc.model.pages;
 
 
 import javax.swing.*;

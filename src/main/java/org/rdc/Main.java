@@ -1,7 +1,7 @@
-package org.example;
+package org.rdc;
 
-import org.example.model.Gui;
-import org.example.model.pages.Landing;
+import org.rdc.model.Gui;
+import org.rdc.model.pages.Landing;
 
 /**
  * Main class of the program
