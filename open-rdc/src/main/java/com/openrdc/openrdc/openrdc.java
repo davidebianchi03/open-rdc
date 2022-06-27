@@ -1,5 +1,6 @@
 package com.openrdc.openrdc;
 
+import com.openrdc.openrdc.controller.WaitConnection;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
@@ -21,6 +22,10 @@ public class openrdc extends Application {
     }
 
     public static void main(String[] args) {
+
+        WaitConnection wc = new WaitConnection();
+        wc.start();
+
         launch();
     }
 }

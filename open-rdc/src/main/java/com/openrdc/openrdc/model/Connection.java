@@ -15,7 +15,6 @@ public class Connection {
     private static Connection instance = null;
     private Socket socket;
 
-
     /**
      * Constructor, it is private because this class is a singleton
      * @param remoteIp ip address of the remote device
